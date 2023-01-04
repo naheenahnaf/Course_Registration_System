@@ -1,10 +1,8 @@
 PRE-INSTRUCTIONS
 
-Open your MySQL Workbench and login to your localhost server.
+Login to your MySQL localhost server.
 
 Create a new schema.
-
-Note: You can create a new schema through the MySQL Command Line Client as well, but you will have to search up how to do that on your own if that's your preference.
 
 INSTRUCTIONS
 
@@ -37,8 +35,6 @@ Run the file ServerController.java
 You should see the message "Server is Running." in your program terminal.
 
 In the client project, run the file ClientController.java
-
-Enjoy!
 
 EXTRA INFORMATION
 
